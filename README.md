@@ -2,107 +2,117 @@
 
 # Jorge Luis Berrocal Yucra
 
-**Estudiante de Ingeniería de Sistemas**
+**Systems Engineering Student**
 
-Redes y telecomunicaciones · Servidores Linux · Seguridad informática · Desarrollo web
+Networking & Telecom • Linux Servers • Cybersecurity • Web Development
 
 </div>
 
 ---
 
-## Sobre mí
+## 🚀 About Me
 
-Soy estudiante de Ingeniería de Sistemas con interés en redes, telecomunicaciones y seguridad informática. Complemento mi formación con proyectos académicos de desarrollo web, administración de servidores Linux y análisis de datos.
+I’m a Systems Engineering student with a strong passion for networks, telecommunications, and cybersecurity. I enjoy building practical solutions, learning by doing, and turning technical challenges into real-world results.
 
-Mi objetivo es especializarme en infraestructura de redes y servicios Linux, fortaleciendo mis habilidades mediante prácticas de configuración, documentación técnica y validación de soluciones.
+I complement my academic training with projects focused on web development, server administration, network configuration, and documentation of technical solutions. My goal is to specialize in network infrastructure and Linux-based services, strengthening my skills in architecture, automation, and secure deployments.
 
-<h2 align="center">Habilidades técnicas</h2>
+<h2 align="center">🧠 Technical Skills</h2>
 
-<p align="center">Tecnologías y conocimientos aplicados en mi formación y proyectos académicos.</p>
+<p align="center">Technologies and tools I’ve used in my academic training and projects.</p>
 
-<h3 align="center">Lenguajes</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h3 align="center">Desarrollo web</h3>
+<h3 align="center">Web Development</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Flask-168B83?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flask-168B83?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-<h3 align="center">Redes y servidores</h3>
+<h3 align="center">Networking & Servers</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-087E2F?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu Server" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Gunicorn-306998?style=for-the-badge&amp;logo=gunicorn&amp;logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-087E2F?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Gunicorn-306998?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
   <img src="https://img.shields.io/badge/BIND9-4338CA?style=for-the-badge" alt="BIND9" />
   <img src="https://img.shields.io/badge/HTTPS-0369A1?style=for-the-badge" alt="HTTPS" />
 </p>
 
-<h3 align="center">Bases de datos</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/SQL%20Server-B91C1C?style=for-the-badge" alt="SQL Server" />
 </p>
 
-<h3 align="center">Herramientas</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=000000" alt="Linux" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </p>
 
-<h3 align="center">Seguridad informática</h3>
+<h3 align="center">Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GPG-7C3AED?style=for-the-badge&amp;logo=gnuprivacyguard&amp;logoColor=white" alt="GPG" />
-  <img src="https://img.shields.io/badge/Certificados%20digitales-0369A1?style=for-the-badge" alt="Certificados digitales" />
-  <img src="https://img.shields.io/badge/Copias%20de%20seguridad-047857?style=for-the-badge" alt="Copias de seguridad" />
+  <img src="https://img.shields.io/badge/GPG-7C3AED?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG" />
+  <img src="https://img.shields.io/badge/Digital%20Certificates-0369A1?style=for-the-badge" alt="Digital Certificates" />
+  <img src="https://img.shields.io/badge/Backups-047857?style=for-the-badge" alt="Backups" />
 </p>
 
 <p align="center">
-  IPv4 · Subnetting · VLSM · Enrutamiento estático · DNS<br />
-  Fundamentos de criptografía · Firma y cifrado
+  IPv4 • Subnetting • VLSM • Static Routing • DNS<br />
+  Cryptography Fundamentals • Signing and Encryption
 </p>
 
 ---
 
-## Proyectos académicos
+## 📚 Academic Projects
 
-### AYACUCHO TOURS — Sistema de gestión de ventas
+### AYACUCHO TOURS — Sales Management System
 
-Proyecto de aplicación web para gestionar clientes, paquetes turísticos, reservas, ventas y pagos de una agencia turística, siguiendo un enfoque de desarrollo guiado por especificaciones.
+A web application project designed to manage clients, travel packages, reservations, sales, and payments for a tourism agency, following a specification-driven development approach.
 
-**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS, Supabase y OpenSpec.
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Supabase, and OpenSpec.
 
-### Servidor web seguro en Ubuntu Server
+### Secure Web Server on Ubuntu Server
 
-Proyecto de implementación de un entorno para desplegar aplicaciones Flask, integrando servidor web, servicio DNS, base de datos y HTTPS.
+A deployment project focused on creating a secure environment for Flask applications, integrating a web server, DNS service, database, and HTTPS.
 
-**Tecnologías:** Ubuntu Server, Nginx, Flask, Gunicorn, BIND9 y PostgreSQL.
+**Technologies:** Ubuntu Server, Nginx, Flask, Gunicorn, BIND9, and PostgreSQL.
 
-### Business Intelligence — Caso Olist Brasil
+### Business Intelligence — Olist Brasil Case
 
-Proyecto de análisis de ventas de comercio electrónico mediante un almacén de datos basado en la metodología Kimball.
+A sales analysis project for e-commerce using a data warehouse built with the Kimball methodology.
 
-**Enfoque:** modelado dimensional, tablas de hechos, dimensiones y análisis de ventas.
+**Focus:** dimensional modeling, fact tables, dimensions, and business performance analysis.
 
-## Aprendizaje actual
+---
 
-- Configuración y diagnóstico de redes y servicios Linux.
-- Seguridad de servidores y comunicaciones.
-- Desarrollo de aplicaciones web con bases de datos relacionales.
-- Documentación de requisitos, arquitectura y pruebas de proyectos.
+## 🌱 Currently Learning
+
+- Network configuration and Linux service troubleshooting
+- Server and communication security
+- Web application development with relational databases
+- Requirements documentation, architecture design, and project testing
+
+---
+
+## 🎯 My Mission
+
+I want to keep growing as a technology professional focused on reliable infrastructures, secure systems, and meaningful digital experiences. I’m always looking for opportunities to learn, build, and contribute with energy and curiosity.
+
+> “Every system teaches me something new — and every project brings me one step closer to building better digital solutions.”
